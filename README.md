@@ -18,8 +18,16 @@ Abaixo está a estrutura dos arquivos presentes no diretório:
 
 ```
 ft_printf/
-├── ft_printf.c         # Função principal
+├── ft_printf.c         # Função principal e auxiliares
+    ├── ft_putnbr_u     
+    ├── ft_format
+    ├── ft_printf
 ├── ft_printf_utils.c   # Funções auxiliares
+    ├── ft_putchar
+    ├── ft_putstr
+    ├── ft_putnbr
+    ├── ft_puthexa
+    ├── ft_putptr
 ├── ft_printf.h         # Header file
 ├── Makefile
 └── libftprintf.a       # Biblioteca final
