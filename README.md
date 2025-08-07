@@ -1,4 +1,4 @@
-# 🖨️ ft_printf – 42 Cursus
+# 🖨️ ft_printf – 42 Common_core
 
 ## ✨ Descrição
 
