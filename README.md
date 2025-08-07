@@ -20,10 +20,6 @@ Abaixo está a estrutura dos arquivos presentes no diretório:
 ft_printf/
 ├── ft_printf.c         # Função principal
 ├── ft_printf_utils.c   # Funções auxiliares
-├── ft_putnbr_base.c    # Conversões numéricas
-├── ft_putchar.c        # Impressão de caracteres
-├── ft_putstr.c         # Impressão de strings
-├── ft_putptr.c         # Impressão de ponteiros
 ├── ft_printf.h         # Header file
 ├── Makefile
 └── libftprintf.a       # Biblioteca final
