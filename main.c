@@ -10,6 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+// Main incluído para testar a função porém não está nos arquivos do projeto.
+
 #include "ft_printf.h"
 #include <stdio.h>
 
