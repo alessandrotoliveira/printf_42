@@ -66,5 +66,5 @@ int main(void)
 Compilação:
 
 ```bash
-gcc main.c libftprintf.a -I.
+gcc main.c libftprintf.a.
 ```
